@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+#footer{
+ font-family: 'Work Sans', sans-serif;
+}
+.footer-cotent{
+ height:140px;
+ background:rgba(0, 102, 153, 0.5);
+}
+.footer-help{
+ width:24%;
+ height:100%;
+ float:left;
+ padding:3px;
+}
+.footer-help > h3{
+ color:white;
+ font-family: 'Work Sans', sans-serif;
+ text-align:center
+}
+.footer-business{
+ width:24%;
+ height:100%;
+ float:left;
+ color:white;
+ color:white;
+ padding:3px;
+}
+.footer-business > h3{
+ color:white;
+ font-family: 'Work Sans', sans-serif;
+ text-align:center
+}
+.footer-business > p{
+ color:white;
+ font-family: 'Work Sans', sans-serif;
+}
+.footer-follow{
+ width:24%;
+ height:100%;
+ float:left;
+ padding:3px;
+}
+.footer-follow > h3{
+ color:white;
+ font-family: 'Work Sans', sans-serif;
+ text-align:center
+}
+.footer-email{
+ width:24%;
+ height:100%;
+ float:left;
+ padding:3px;
+}
+.footer-email > h3{
+ color:white;
+ font-family: 'Work Sans', sans-serif;
+ text-align:center
+}
+.media-icon{
+ width:42px
+}
+.footer-corner{
+ float:right;
+}
+.product-card{
+    width: 260px;
+    height: 310px;
+    margin:0 auto;
+    border: 3px solid rgba(0, 102, 153, 0.5);
+    border-radius: 6px;
+}
+.product-card > h3{
+    padding: 4px;
+}
+.product-card > h1{
+    padding: 4px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.product-card > button{
+    width: 100px;
+    height: 40px;
+    border: 0px;
+    border-radius: 30px;
+    font-size: 15px;
+    color: white;
+    background: rgb(55, 106, 248);
+}
+img{
+    background: white;
+}
+.product-detail{
+    font-family: 'Lato', sans-serif;
+    width: 1000px;
+    margin: 0 auto;
+}
+.product-detail > img{
+    width: 500px;
+}
+.left-section{
+    width: 500px;
+    display: inline-block;
+    vertical-align: top;
+}
+.right-section{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.section1 > h1{
+    font-size: 30px;
+    font-weight: bolder;
+}
+.section1 > h3{
+    font-weight: 20px;
+}
+.section1{
+    width: 400px;
+    border-bottom: 1px solid #cdcdcd;
+}
+.section2{
+    width: 400px;
+    font-weight: 20px;
+    border-bottom: 1px solid #cdcdcd;
+}
+.section3{
+    font-weight: 30px;
+}
+.section3 > h2{
+    display:inline;
+    font-weight: bold;
+}
+.size-button{
+    height: 30px;
+    width: 60px;
+    margin-right:10px;
+    border-radius:20px;
+    border: 0px;
+}
+.quantity-button{
+    width: 35px;
+    height: 35px;
+    border-radius:20px;
+    border: 0px;
+    margin: 10px;
+}
+.add-button{
+    width: 85px;
+    height: 35px;
+    background: rgb(55, 106, 248) ;
+    color: white;
+    border: 0px;
+    border-radius:20px;
+}
+.checkout-page{
+    font-family: 'Lato', sans-serif;
+    width: 1400px;
+    margin: 0 auto;
+}
+.big-section{
+    width: 70%;
+    display: inline-block;
+}
+.small-section{
+    width: 30%;
+    display: inline-block;
+    height: 700px;
+}
+.product-des{
+    height: 90px;
+    width: 600px;
+    color: red;
+}
